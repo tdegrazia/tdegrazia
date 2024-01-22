@@ -16,7 +16,8 @@ Welcome to my GitHub! As a sophomore pursuing a major in Computer Science with a
 <p align="left">
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 <details>
   <summary><h3 align="left">My Coding Journey:</h3></summary>
@@ -33,6 +34,7 @@ However, in more recent times, I have cultivated a deep appreciation for persona
   <summary><h3 align="left">In my Free Time:</h3></summary>
   <p align="left">
 
-When I'm not immersed in coding or on the baseball field, you'll find me in nature, exploring trails and embracing the outdoors on hikes. As an adrenaline enthusiast, I engage in various activities, including snowboarding, ice skating, surfing, and even the occasional skydiving experience. To counteract the impact on my nervous system, there's nothing quite like stargazing during a camping trip.
+When I'm not coding or on the baseball field, you'll find me in nature, exploring trails and embracing the outdoors on hikes. I love anything that makes my heart race. I engage in various activities to do so, including snowboarding, ice skating, surfing, and even the occasional skydiving experience. To counteract the damage on my nervous system, I'll spend a lot of time relaxing whether it is stargazing on a camping trip, sitting by a campfire, or listening to music.
   </p>
 </details>
+
